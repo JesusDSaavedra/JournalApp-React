@@ -14,8 +14,14 @@ Tecnologias utilizadas:
 
 - Vite
 - React.js v18
+- React Router
+- ReactRedux & Redux Toolkit
 - jest
 - Babel
+- Material UI
+- FireBase
+
+Esta Aplicacion Web se creo mediante React.js con Hooks, Redux, Redux
 
 
 
