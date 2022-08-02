@@ -7,8 +7,10 @@ Repositorio del proyecto de JournalApp de React.
 
 
 Uso:
-Esta AppWeb es un proyecto en el cual se pueden realizar notas de lo que hiciste, con un titulo, una describcion y con la facilidad de poder fotos. 
+Esta AppWeb es un proyecto en el cual se pueden realizar notas de lo que hiciste, con un titulo, una describcion y con la facilidad de poder subir fotos. 
 Todo esto queda almacenado en el usuario el cual se tendra que crear al inicio, ya puede que sea haciendo uno nuevo o ingresando con Google.
+
+
 
 Tecnologias utilizadas: 
 
@@ -21,7 +23,6 @@ Tecnologias utilizadas:
 - Material UI
 - FireBase
 
-Esta Aplicacion Web se creo mediante React.js con Hooks, Redux, Redux
 
 
 
